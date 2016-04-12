@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Максим Ригосик](https://up.htmlacademy.ru/htmlcss/13/user/176559).
-* Наставник: [Максим Фарига](https://htmlacademy.ru/profile/id6090)`Добавлено имя наставника и id на сайте академии`.
+* Наставник: [Максим Фарига](https://htmlacademy.ru/profile/id6090).
 
 ---
 
